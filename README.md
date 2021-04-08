@@ -17,7 +17,7 @@ This project was developed by the following technologies:
  - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
  - [JSON Server](https://www.npmjs.com/package/json-server)
 
-** To work**:
+**To work**:
 
 ```console
 console@bar:/GitHub/goRestaurant:~$ yarn
